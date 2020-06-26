@@ -1,4 +1,0 @@
-SVGPathSegLinetoHorizontalAbs
-
-
-lista la prueba
